@@ -1,0 +1,407 @@
+body .logo {
+    text-align: center;
+}
+
+body .catch-sentense {
+    text-align: center;
+    color: #00b39b;
+    font-family: 'Work Sans', sans-serif;
+    word-spacing: 3px;}
+
+
+  a {
+   text-decoration: none;
+      }
+  
+.box {
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    font-size: 22px;
+    box-sizing: inherit;
+color: grey;
+font-family: 'Roboto', sans-serif;
+gap: 2rem;
+
+
+    
+}
+body .box2 {
+    display: flex;
+    justify-content:center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+ 
+    
+}
+
+
+
+.navbar a:hover {
+  color: #00b39b;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 240px;   
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+position: sticky;
+top:0px;
+background-color: white;
+}
+
+.about{
+    color: #00b39b;
+}
+.career,.departements{
+    color: gray;
+}
+
+.patients{
+    background-color:rgb(0, 204, 177);
+    width: 300px;
+    height: 320px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+
+.doctors{
+    background-color: rgb(61, 131, 223);
+    width: 300px;
+    height: 320px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.clinics{
+    background-color: rgb(27, 39, 52);
+    width: 300px;
+    height: 320px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.option1{
+padding-top: 50px;
+padding-right: 50px;
+ }
+
+.option2{
+    padding-top: 50px;
+    padding-right: 50px;
+    
+}
+
+.option3{
+    padding-top: 10px;
+padding-right: 50px;
+
+}
+
+.textoption1{
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 40px;
+   
+    
+}
+.textoption2{
+    margin-left: 40px;
+    margin-top: 10px;
+    text-align:left
+   
+}
+
+.textoption3{
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+#icon1{
+    margin-right: 200px;
+    margin-top: 30px;
+ }
+
+
+#icon2{
+    margin-right: 200px;
+    margin-top: 30px;
+
+}
+
+#icon3{
+    margin-right: 200px;
+    margin-top: 27px;
+}
+
+#select{
+    text-decoration: underline;
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    font-size: 18px;
+
+}
+option{
+    color: black;
+}
+
+a:hover {
+    color: #00b39b;
+}
+ .container1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: baseline;
+    align-content:center;
+    flex-wrap: wrap;
+    padding-top: 40px;  
+ }
+
+ .box4{
+    color: #00b39b;
+   margin-left: 120px;
+   font-family: 'Work Sans', sans-serif;
+ }
+
+
+ .box5{
+    display: flex;
+    flex-wrap:wrap;
+   width: 800px;
+   align-content: center;
+   justify-content: space-between;
+   opacity: 0.5;
+ }
+
+ .container2{
+ display: flex;
+flex-wrap: wrap;
+ width: 1327px;
+ justify-content:space-between;
+ background-color: #00b39b;
+ 
+
+ }
+
+ .container3{
+    display: flex;
+    flex-wrap: wrap;
+     width: 800px;
+     justify-content:end;
+     justify-items: end;
+     background-color: #00b39b;
+ }
+
+ .item1{
+    flex: 1;
+
+    flex-direction: column;
+
+ }
+
+ .item2{
+    flex: 1;
+
+    flex-direction: column;
+
+ }
+
+ .item3{
+    flex: 1;
+    flex-direction: column;
+
+ }
+
+ .item4{
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    
+ }
+ 
+
+ .textcontainer{
+    padding-right: 500px;
+ }
+
+
+
+
+
+ 
+.container5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 25px;
+    background-color: rgb(214,245,247);
+    height: auto ;
+    background-image: url(./img/logo.png);
+    background-repeat: no-repeat;
+    background-position: 9% 189% ;
+  
+  }
+  
+  .section1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+
+ .section22 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 550px;
+    height: 270px;
+    flex-wrap: wrap;
+  }
+  
+  .box11 ,
+  .box22 ,
+  .box33 ,
+  .box44 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    width: 235px;
+    height: 230px;
+  }
+
+  .title {
+    font-family: 'Work Sans', sans-serif;
+    color: #00b39b;
+  }
+ 
+
+
+  
+.container6 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .title01 {
+    color: #00b39b;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+  }
+  
+  .p {
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.5em;
+    text-align: center;
+  }
+  
+  .container7 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .container77 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .card{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 8px;
+  }
+  
+  .button {
+    background-color: rgb(61,131,223);
+    color: white;
+    border:none;
+    border-radius:3px;
+    line-height:15px;
+    padding: 10px;
+  }
+   
+  .Warsaw ,
+  .Barcelona ,
+  .Munich ,
+  .Istanbul ,
+  .Rome ,
+  .Bologna ,
+  .Curitiba ,
+  .Rio ,
+  .Mexico {
+    margin: 10px;
+  }
+  
+  .container8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-bottom: 90px;
+  }
+  
+  .title2 {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+  }
+  
+  .button2 {
+    background-color: rgb(61,131,223);
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+  }
+  
+  .container9 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top: solid 1px lightgray; 
+  }
+  
+  .para3 {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #3d83df;
+  }
+  
+  
+  
+  
+
+
+
+
+
